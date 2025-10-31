@@ -57,6 +57,14 @@ Here are some distros I’ve used and enjoyed:
 
 ---
 
+### 🎮 Just for Fun!
+Because coding is fun — but so are games 😄  
+
+![Pac-Man](https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif)
+![Snake](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=ThurZ34&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
