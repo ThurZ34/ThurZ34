@@ -50,12 +50,6 @@ Here are some distros I’ve used and enjoyed:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
-
-### 🐍 My GitHub Contribution Snake
-![snake gif](https://raw.githubusercontent.com/ThurZ34/ThurZ34/output/github-contribution-grid-snake.svg)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=ThurZ34&icon=0&color=0)](https://visitcount.itsvg.in)
 
